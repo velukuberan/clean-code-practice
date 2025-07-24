@@ -11,6 +11,6 @@ Welcome to the learning hub for my clean code journey. This repository serves as
 
 ## What to expect
 
-The codebase starts small and evolves through deliberate refactoring. Each commit aims to demonstrate clean architecture techniques, from separation of concerns to dependency injection. The `/docs` directory contains additional guides and notes collected along the way.
+The codebase starts small and evolves through deliberate refactoring. Each commit aims to demonstrate clean architecture techniques, from separation of concerns to dependency injection. The `/docs` directory contains additional guides and notes collected along the way. See the [overview](overview.md) page for a more detailed description of the project goals.
 
 I hope these notes help you (and future me) understand how thoughtful structure can keep even a simple project understandable and adaptable.
