@@ -1,2 +1,2 @@
-# solid-principles
+# Solid Principles
 Practice Solid Principles
