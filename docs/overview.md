@@ -1,6 +1,4 @@
-# Clean Code Practice
-
-## ✅ Project Overview
+# ✅ Overview
 A modular, scalable **Library Management System** designed using the SOLID principles. The focus is not just functionality, but how to design software that is maintainable, extensible, and testable.
 
 ## 📦 Core Features
